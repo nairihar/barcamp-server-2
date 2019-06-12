@@ -1,4 +1,4 @@
-# barcamp-server-1
+# barcamp-server-2
 
 
 ## DEFAULT ENVs
@@ -12,3 +12,5 @@ TOKEN=
 npm start
 ```
 
+# Server 1
+https://github.com/nairihar/barcamp-server-1
