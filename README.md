@@ -1,9 +1,10 @@
-# barcamp-server-2
+# barcamp-server-1
 
 
 ## DEFAULT ENVs
 ```
-PORT=8080
+PORT=8081
+TOKEN=
 ```
 
 ## RUN

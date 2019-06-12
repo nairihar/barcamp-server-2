@@ -6,4 +6,3 @@ then
     exit 1
 fi
 
-mkdir node_modules
